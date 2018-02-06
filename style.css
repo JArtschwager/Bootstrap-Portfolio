@@ -1,0 +1,63 @@
+* { 
+    box-sizing: border-box;
+   
+}
+
+body {
+    background-image: url("/Users/jenn/code/week2hmwk/Jennartport/images/logos/spiration light/spiration-light.png");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    padding: 10px;
+}
+
+.navedits {
+    background-color: rgb(185, 176, 176);
+}
+
+.jumbo-edits {
+    /* background-image: url("/Users/jenn/code/week2hmwk/Jennartport/images/background_side_abstract.jpg"); */
+    background-color: #dec5fe
+}
+
+.mainbody {
+    background-color: white;
+    padding: 5px;
+    border: 4px solid rgb(154, 154, 170);
+
+
+
+}
+.selfport {
+    width: 300px;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    /* border: 10px solid green; */
+    float: left;
+}
+
+
+.card-edits{
+    background-color: white;
+    padding-right:5px;
+    padding-left:5px;
+    padding-top: 40px;
+    padding-bottom:40px;
+    border: 2px solid rgb(184, 184, 184);
+    margin: 5px;
+    text-align: center;
+  
+
+
+}
+
+.cardtitle-edits {
+    padding-bottom:10px;
+    border-bottom: 2px solid rgb(184, 184, 184);
+    text-align: center;
+    background-color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: white;
+    border: 2px solid  rgb(184, 184, 184);
+}
