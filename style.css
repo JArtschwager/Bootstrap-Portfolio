@@ -3,11 +3,16 @@
    
 }
 
+.containerPortfolio {
+    text-align: center;
+}
+
 body {
     /* background-image: url("/Users/jenn/code/week2hmwk/Jennartport/images/logos/spiration light/spiration-light.png"); */
    background-image: url("/Users/jenn/code/week2hmwk/Jennartport/images/wall4/wall4.png");
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     padding: 10px;
+    color: #006c84; 
    
 }
 
@@ -25,6 +30,7 @@ a:link {
 a:visited {
     color:#e2e8e4;
 }
+
 
 .jumbo-edits {
     /* background-image: url("/Users/jenn/code/week2hmwk/Jennartport/images/background_side_abstract.jpg"); */
@@ -60,7 +66,7 @@ a:visited {
 .mainbody {
     background-color: #e2e8e4;
     color: #006c84;
-    padding: 5px;
+    padding: 15px;
     margin-bottom: 20px;
     /* border: 2px solid #ffccbb; */
 
@@ -77,15 +83,15 @@ a:visited {
 
 
 .card-edits{
-    background-color: #006c84; 
     padding-right:5px;
     padding-left:5px;
     padding-top: 40px;
     padding-bottom:40px;
-    border: 2px solid #ffccbb;
+    border: 2px solid #6eb5c0;
     margin: 5px;
     text-align: center;
     margin-top: 50px;
+    margin-bottom: 5px; 
   
 
 
@@ -96,7 +102,16 @@ a:visited {
     border-bottom: 2px solid rgb(184, 184, 184);
     text-align: center;
    
-    color: #e2e8e4;
+    color: #006c84;
+}
+
+.card-text-edit {
+    padding: 10px;
+}
+
+.interesttitle {
+    text-align: center;
+    padding-top: 10px;
 }
 
 aside {
