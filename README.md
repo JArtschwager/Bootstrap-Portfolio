@@ -1,2 +1,2 @@
-# Jenartport
+# bootstrap-portfolio
 Art portfolio website

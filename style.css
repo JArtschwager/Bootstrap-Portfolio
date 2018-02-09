@@ -124,6 +124,11 @@ aside {
     color: #006c84;
 }
 
+.buttonedits {
+    padding-top: 20px; 
+    /* didn't change anything */
+}
+
 footer {
     text-align: center;
     background-color: #e2e8e4;
